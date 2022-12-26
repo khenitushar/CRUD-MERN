@@ -25,6 +25,3 @@ node server.js
 ```shell
 cd client && npm start
 ```
-
-## Contributions
-Contributions are welcome. Just submit a PR and I will make sure to review it 😸
